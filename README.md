@@ -57,7 +57,7 @@ BioGame
 ├── LICENSE
 ├── .gitignore
 ├── docs/               requisitos, arquitetura, banco de dados, testes e manual do usuário
-├── imagens/            logo, diagramas e telas (29 capturas nomeadas)
+├── imagens/            logo, diagramas e telas
 ├── videos/             vídeos de demonstração
 └── codigo-fonte/       App-BioGame e Landing-Page
 ```
