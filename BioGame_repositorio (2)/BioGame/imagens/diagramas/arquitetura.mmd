@@ -1,0 +1,8 @@
+flowchart LR
+  U[Jogador] --> A[App BioGame<br/>React Native + Expo]
+  A --> N[React Navigation<br/>pilha e abas]
+  A --> C[Contexto Progresso.js<br/>fases, vidas, amigos]
+  C --> S[services/<br/>auth, progresso, amigos]
+  S --> FA[Firebase Authentication]
+  S --> FS[(Cloud Firestore)]
+  A --> D[dados/niveis.js<br/>níveis e perguntas]
