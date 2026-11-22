@@ -1,5 +1,3 @@
-<p align="center"><img src="imagens/logo/logo-biogame.png" alt="Logo do BioGame" width="140"></p>
-
 # BioGame
 
 ## Nome e descrição
